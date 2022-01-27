@@ -1,2 +1,2 @@
-# EurorackMidiCV
+# Eurorack MIDI to CV
  
